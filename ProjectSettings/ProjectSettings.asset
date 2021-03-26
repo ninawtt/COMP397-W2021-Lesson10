@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: Centennial College
-  productName: COMP397-W2021-Lesson9a
+  productName: COMP397-W2021-Lesson10
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -146,7 +146,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Android: ca.CentennialCollege.COMP397W2021Lesson9a
+    Android: ca.CentennialCollege.COMP397W2021Lesson10
   buildNumber:
     Standalone: 0
     iPhone: 0
@@ -761,11 +761,11 @@ PlayerSettings:
     m_VersionName: 
   apiCompatibilityLevel: 6
   activeInputHandler: 0
-  cloudProjectId: ce368419-4cc8-46c3-a147-53070991bafa
+  cloudProjectId: a1fd9947-f634-4728-8c30-15a26e6e10a1
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: COMP397-W2021-Lesson4a
-  organizationId: centennial-college
+  projectName: COMP397-W2021-Lesson10
+  organizationId: ninawu424
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   virtualTexturingSupportEnabled: 0
